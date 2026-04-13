@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4ffbb2e4-f6b2-4bf5-830d-883b01bc90ae",
+  "id_short": 731559,
+  "published_at": "2026-04-13T07:29:35Z",
+  "repo_name": "all-restaurants-in-clarksville-metro-tn-ky-us-sample-731559",
+  "sample_asset_name": "beamstation_731559_restaurants-us-clarksvilletnky_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/731559/beamstation_731559_restaurants-us-clarksvilletnky_SAMPLE_DIST.csv",
+  "sample_records": 68,
+  "sample_sha256": "99d90299a0468ae11295339819cbe7ee06dfc132b93fa25f8a9de9c4d2e76725",
+  "sample_size_bytes": 267392,
+  "total_records": 682
+}
