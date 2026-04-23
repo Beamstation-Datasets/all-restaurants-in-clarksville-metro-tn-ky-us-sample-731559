@@ -1,6 +1,6 @@
 # All Restaurants in Clarksville (Metro), TN-KY, US
 
-> Free BeamStation sample export with 68 rows and masked direct-contact fields.
+> Free BeamStation sample export with 32 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `731559` |
 | Location | Clarksville, TN-KY |
 | Category | Restaurants |
-| Full dataset size | 681 records |
-| Free sample size | 68 records (9.99%) |
-| Last export | 2026-04-16T14:04:08.338183+00:00 |
+| Full dataset size | 320 records |
+| Free sample size | 32 records (10.0%) |
+| Last export | 2026-04-23T12:45:34.682069+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-clarksville-metro-tn-ky-us-sample-731559/releases/download/sample-latest/beamstation_731559_restaurants-us-clarksvilletnky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
